@@ -6,7 +6,7 @@ import re
 
 initialCount = 0
 
-# serial port that micro controller is listening (ex. arduino)
+# serial port that your micro controller is listening to
 serialPort = '/dev/cu.wchusbserial1410'
 
 # your Gmail username - full email
